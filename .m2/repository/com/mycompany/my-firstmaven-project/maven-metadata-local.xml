@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.mycompany</groupId>
+  <artifactId>my-firstmaven-project</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170831143951</lastUpdated>
+  </versioning>
+</metadata>
